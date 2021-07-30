@@ -62,6 +62,15 @@
 	margin-left: 0;
 }
 
+.videoSobre .container {
+	display: flex;
+}
+
+.videoSobre-sobre {
+	text-align: center;
+}
+
+
 
 
 /*começando parte mobile*/
@@ -105,6 +114,10 @@
 
 	.rodapePrincipal-contatoForm-fieldset{
 		justify-content: center;
+	}
+
+	.cabecalhoPrincipal-nav-link-app{
+		order: -1;
 	}
 }
 
